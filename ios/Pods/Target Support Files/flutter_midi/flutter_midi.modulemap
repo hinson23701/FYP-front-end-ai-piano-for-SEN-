@@ -1,0 +1,6 @@
+framework module flutter_midi {
+  umbrella header "flutter_midi-umbrella.h"
+
+  export *
+  module * { export * }
+}
