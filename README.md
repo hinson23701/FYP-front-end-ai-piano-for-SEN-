@@ -1,6 +1,6 @@
 # ive_fyp_aipianoforsen
 
-A new Flutter project.
+This is ITE4116M FYP AI piano tutor for sen
 
 ## Getting Started
 
